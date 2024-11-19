@@ -8,6 +8,15 @@
 - Utilizes Pollinations AI for generating responses
 - Simple setup and deployment
 
+## Project Preparation
+
+- Ensure Node.js is installed on your system.
+- Create a new directory for your chatbot project, then run `npm init` to initialize the Node.js project.
+- Install `express` for the HTTP server and `axios` for HTTP requests using:
+  ```bash
+  npm install express axios
+  ```
+
 ## Installation
 
 1. Clone the repository:
